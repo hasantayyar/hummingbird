@@ -1,6 +1,8 @@
 HUMMINGBIRD
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hasantayyar/hummingbird.svg)](https://greenkeeper.io/)
+
 Site tracking and analytics storage
 
 
